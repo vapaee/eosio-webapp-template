@@ -10,3 +10,9 @@
 
 https://material.angular.io/
 https://material.io
+
+
+# Boostrap 4
+
+    ng add @ng-bootstrap/schematics
+    ng add ngx-bootstrap
